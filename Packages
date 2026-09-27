@@ -116,3 +116,19 @@ MD5sum: aeabd3214f22862edee2c25a36e938aa
 SHA1: 8d6a7378b69a6b0ad83dfbe367b276a3f5abdbbc
 SHA256: 27a41542671acd24506d2a6e44196d9c9b73f7e45ebbdf6a69ebfb707d37ec94
 
+Package: com.ban.devicetool
+Name: DeviceTool
+Description: An awesome application for Device Management!
+Maintainer: LeHong
+Author: LeHong
+Section: Utilities
+Depends: firmware (>= 15.0), ellekit, ldid, openssh, sqlite3, adv-cmds, coreutils, system-cmds, network-cmds, shell-cmds, ca-certificates, com.tigisoftware.filza
+Architecture: iphoneos-arm64
+Version: 0.62.1-1+debug
+Installed-Size: 2324
+Filename: debs_VIP/com.ban.devicetool_0.62.1-1+debug.deb
+Size: 547768
+MD5sum: 1f971882110acd4fcfbac06ef76cb528
+SHA1: 0464897d3ce6f6aa3eecba34641d69d8bbdb64ce
+SHA256: 2d8c867d4ebfece628bc8d6e908d1f58f389e43d2cc51ee13d7f0fe08e1fcaa6
+
