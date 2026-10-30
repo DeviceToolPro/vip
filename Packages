@@ -14,6 +14,24 @@ MD5sum: 885e88db3886723e3800b2909027e4f4
 SHA1: 560763b73c1ac3e9cc174dcffedee11aa3aa98e0
 SHA256: cc21f5a8f3e1398caaa3b8d8de2f2e05a9638065473a40ff685b64221f8c0afd
 
+Package: re.frida.server
+Name: Frida
+Version: 17.24.3
+Priority: optional
+Installed-Size: 78416
+Architecture: iphoneos-arm64
+Description: Observe and reprogram running programs.
+Homepage: https://frida.re/
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Author: Frida Developers <oleavr@nowsecure.com>
+Section: Development
+Conflicts: re.frida.server64
+Filename: debs_VIP/re.frida.server_17.24.3.deb
+Size: 23504004
+MD5sum: 96bb3646de0e4ece017c58097a060947
+SHA1: d200c8f44113728b1b5cc02abff5f76048486a7b
+SHA256: 233a0133b027f41a24c7dddfa6e88bc49cf1f14a5066bc32c2523953f59d9e6d
+
 Package: me.autotouch.autotouch.ios8.inputtext
 Name: AutoTouch InputText
 Description: Record and playback touch operations, play macro scripts automatically.
