@@ -14,3 +14,23 @@ MD5sum: 885e88db3886723e3800b2909027e4f4
 SHA1: 560763b73c1ac3e9cc174dcffedee11aa3aa98e0
 SHA256: cc21f5a8f3e1398caaa3b8d8de2f2e05a9638065473a40ff685b64221f8c0afd
 
+Package: me.autotouch.autotouch.ios8
+Name: AutoTouch
+Description: Record and playback touch operations, play macro scripts automatically.
+Section: Utilities
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Priority: optional
+Author: Kent Krantz <kentkrantz@gmail.com>
+Homepage: https://autotouch.net
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Architecture: iphoneos-arm64
+Version: 8.5.5
+Installed-Size: 135228
+Filename: debs_VIP/me.autotouch.autotouch.ios8_8.5.5.deb
+Size: 21615552
+MD5sum: a705c9d32f42db3456f201dfc7aa842e
+SHA1: d6f3285e0ed6a6e760607c67c066a024c7bddd9e
+SHA256: 0f141664f473068d1574161a81d2646bbf05569c7ab18122a009221616b02b8e
+
